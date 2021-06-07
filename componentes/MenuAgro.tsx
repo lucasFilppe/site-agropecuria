@@ -114,7 +114,6 @@ export const MenuAgro = () => {
         pos="fixed"
         top="0"
         left="0"
-        zIndex={20}
         overflowY="auto"
         flexDir="column"
       >
